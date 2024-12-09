@@ -1,10 +1,8 @@
 # Smart Cap Appilcation
 
-A new Flutter project.
+Application used to monitor the user's pulse and oxygen. This application receives sensor data from an IoT device called a SmartCap.
 
 ## Getting Started
-
-Application used to monitor the user's pulse and oxygen. This application receives sensor data from an IoT device called a SmartCap.
 
 A few resources to get you started if this is your first Flutter project:
 
