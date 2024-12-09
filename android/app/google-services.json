@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364220174080",
+    "firebase_url": "https://smart-cap-754a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-cap-754a4",
+    "storage_bucket": "smart-cap-754a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364220174080:android:8b8ec8247ef31b1c742de5",
+        "android_client_info": {
+          "package_name": "com.example.bluetooth_low_energy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364220174080-hsn2o4q6msu0lccd6d0lr04ohmog8lij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vn3_FkujEHEb8MoAacW2xklMGa2_hP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364220174080-hsn2o4q6msu0lccd6d0lr04ohmog8lij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
